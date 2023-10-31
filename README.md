@@ -1,13 +1,12 @@
 # Afqufai/AK Void
-## Professional idiot
 
-simple guy
-list of what I do:
-- I play games
-- I watch videos
-- I listen bangers
-- I read texts
-- most importantly, I RUIN stuff.
+a simple guy who...
+
+- Play games
+- Watch videos
+- Listen bangers
+- Read texts
+- RUINS stuff.
 
 and that's all I do.
 
